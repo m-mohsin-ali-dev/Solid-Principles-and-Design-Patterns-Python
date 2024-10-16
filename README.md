@@ -1,5 +1,4 @@
 # SOLID Principles and Design Patterns
-
 This repository showcases practical implementations of **SOLID principles** and various **Design Patterns** in **Python**. 
 
 ## What Are Design Patterns?
@@ -75,6 +74,23 @@ This repository covers all the major **SOLID design principles** and **GoF desig
 
 ## How to Use This Repository
 
+### Prerequisites
+Make sure you have Git installed on your machine. You can download it from [git-scm.com](https://git-scm.com/).
+
+### Cloning the Repository
+
+You can clone this repository using HTTPS with following command:
+
+```bash
+git clone https://github.com/m-mohsin-ali-dev/Solid-Principles-and-Design-Patterns-Python
+```
+You can clone this repository using SSH with following command:
+
+```bash
+git clone git@github.com:m-mohsin-ali-dev/Solid-Principles-and-Design-Patterns-Python.git
+```
+
+### Folder Structure and Contents
 Each design pattern and SOLID principle is organized into its own folder, containing:
 
 - A brief explanation of the concept
